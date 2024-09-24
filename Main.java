@@ -321,5 +321,13 @@ public class Main {
             System.out.println("Ismeretlen opció: " + option);
         }
     }
+
+
+    // uj fuggveny hozzaadasa
+    // egyik van kivalasztva branchkent
+    protected void ujFuggveny(String[] cmd) {
+        // ...
+    }
+
 }
 
