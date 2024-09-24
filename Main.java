@@ -335,4 +335,11 @@ public class Main {
     protected void ujFuggveny2() {
         System.out.println("Új funkció");
     }
+
+
+    // uj fuggveny a master branchhez
+    protected void ujFuggveny3() {
+        System.out.println("Új funkció a master branchhez");
+    }
+
 }
