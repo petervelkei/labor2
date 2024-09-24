@@ -321,4 +321,10 @@ public class Main {
             System.out.println("Ismeretlen opció: " + option);
         }
     }
+
+    // masik branchhez adas
+    // uj fuggveny
+    protected void ujFuggveny2() {
+        System.out.println("Új funkció");
+    }
 }
