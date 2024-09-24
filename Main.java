@@ -329,5 +329,10 @@ public class Main {
         // ...
     }
 
-}
 
+    // masik branchhez adas
+    // uj fuggveny
+    protected void ujFuggveny2() {
+        System.out.println("Új funkció");
+    }
+}
